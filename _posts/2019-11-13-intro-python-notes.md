@@ -10,7 +10,7 @@ typora-copy-images-to: ..\github data\eatmancl.GitHub.io\_posts\_img
 
 Some python tricks
 
-<img src="/assets/res/_img/user.png" style="zoom:33%;" />
+<img src="/assets/img/t1.png" style="zoom:33%;" />
 
 ### Variables & Assignment
 
