@@ -10,22 +10,22 @@ typora-copy-images-to: ..\github data\eatmancl.GitHub.io\_posts\_img
 
 Some python tricks
 
-<img src="D:\github data\eatmancl.GitHub.io\_posts\_img\user.png" style="zoom:33%;" />
+<img src="/assets/res/_img/user.png" style="zoom:33%;" />
 
 ### Variables & Assignment
 
-```
+{% highlight ruby %}
 age = 42
 first_name = 'Ahmed'
-```
-```
+
 print(first_name, 'is', age, 'years old')
 
 print(last_name)
 
 age = age + 3
 print('Age in three years:', age)
-```
+{% endhighlight %}
+
 
 ```
 element = 'helium'
