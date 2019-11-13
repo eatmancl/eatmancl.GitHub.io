@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "python notes"
-date: 2019-11-13
+title:  "Python tricks"
+date:   2019-11-13 01:30:13 +0800
 categories: Python
-tags: python syntax
-comments: 1
+tags: test
 ---
 
 ### Variables & Assignment
