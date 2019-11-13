@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: ""
 url: "https://eatmancl.github.io/"
 repository: eatmancl
-permalink: /:short_year:i_month:i_day.html
+permalink: /:year:i_month:i_day.html
 paginate: 10 
 paginate_path: /page:num
 
