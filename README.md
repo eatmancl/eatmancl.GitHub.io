@@ -4,13 +4,14 @@ This is personal blog contains all my study notes
 ## Up coming
 XXXXXX
 
-## content
+## Content
 
+### Notes
 * JavaScript
 * Machine learning
 * node.js
 * react
-* upcoming 
+
 
 ## License
 
