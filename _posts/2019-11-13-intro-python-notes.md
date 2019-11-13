@@ -1,12 +1,16 @@
 ---
 layout: post
-title:  "Python tricks"
-date:   2019-11-13 01:30:13 +0800
+title: "python notes"
+date: 2019-11-13
 categories: Python
 tags: python syntax
+comments: 1
+typora-copy-images-to: ..\github data\eatmancl.GitHub.io\_posts\_img
 ---
 
 Some python tricks
+
+<img src="D:\github data\eatmancl.GitHub.io\_posts\_img\user.png" style="zoom:33%;" />
 
 ### Variables & Assignment
 
