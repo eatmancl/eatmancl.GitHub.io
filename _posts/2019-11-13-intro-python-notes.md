@@ -3,10 +3,10 @@ layout: post
 title:  "Python tricks"
 date:   2019-11-13 01:30:13 +0800
 categories: Python
-tags: test
+tags: python syntax
 ---
 
-some python tricks
+Some python tricks
 
 ### Variables & Assignment
 
