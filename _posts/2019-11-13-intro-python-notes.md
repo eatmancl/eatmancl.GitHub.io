@@ -6,6 +6,8 @@ categories: Python
 tags: test
 ---
 
+some python tricks
+
 ### Variables & Assignment
 
 ```
